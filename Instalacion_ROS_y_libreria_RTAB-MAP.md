@@ -1,4 +1,4 @@
-# Guía de Instalación: ROS Melodic y Dependencias
+# Guía de Instalación: ROS Melodic y librería RTAB-MAP
 
 Esta guía detalla los pasos necesarios para instalar ROS Melodic y las librerías necesarias para el funcionamiento del dron y los sensores (Kinect y RTAB-MAP).
 
